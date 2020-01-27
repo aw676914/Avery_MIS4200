@@ -3,6 +3,9 @@
 End Code
 
 <h2>@ViewData("Title").</h2>
-<h3>@ViewData("Message")</h3>
 
-<p>Use this area to provide additional information.</p>
+
+<p>Hello my name is Avery Wallace and  I am from Johns Creek Ga.
+   I love basketball and my favorite team is the Chicago Bulls.
+    
+    </p>
