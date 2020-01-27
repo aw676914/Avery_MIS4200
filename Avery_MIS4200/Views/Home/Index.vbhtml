@@ -5,7 +5,7 @@ End Code
 <div class="jumbotron">
     <h1>MIS4200</h1>
     <p class="lead">Avery Wallace</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    
 </div>
 
 <div class="row">
