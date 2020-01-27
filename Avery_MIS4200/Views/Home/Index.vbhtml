@@ -23,7 +23,7 @@ End Code
     </div>
     <div class="col-md-4">
         <h2>My School</h2>
-        <p>Get to know where I went to school..</p>
+        <p>Get to know where I went to school.</p>
         <p><a class="btn btn-default" href="https://www.ohio.edu/">Learn more &raquo;</a></p>
     </div>
 </div>
